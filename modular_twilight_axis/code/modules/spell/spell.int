@@ -1,0 +1,12 @@
+// BEGIN_INTERNALS
+/*
+MAP_PLANE_MASTERS: 
+MAP_ZOOM: 1.000
+DIR: spell_types spell_types\wizard spell_types\wizard\projectiles_aoe 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+WINDOW: spell_types\wizard\projectiles_aoe\ballistic_mortar.dm
+FILE: spell_types\wizard\projectiles_aoe\ballistic_mortar.dm
+MAP_INSTANCE_MODE: copy
+*/
+// END_INTERNALS

@@ -1,0 +1,12 @@
+// BEGIN_INTERNALS
+/*
+MAP_PLANE_MASTERS: 
+MAP_ZOOM: 1.000
+DIR: code code\modules code\modules\clothing code\modules\clothing\rogueclothes code\modules\clothing\rogueclothes\armor code\modules\hairstyles code\modules\roguetown code\modules\roguetown\roguecrafting code\modules\roguetown\roguecrafting\alchemy code\onclick 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+WINDOW: code\onclick\click.dm
+FILE: code\onclick\click.dm
+MAP_INSTANCE_MODE: copy
+*/
+// END_INTERNALS

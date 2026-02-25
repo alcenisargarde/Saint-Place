@@ -1,0 +1,17 @@
+#include "code\_artillery.dm"
+#include "code\merchant.dm"
+#include "code\craft.dm"
+#include "code\mortar.dm"
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+// BEGIN_INCLUDE
+#include "code\_artillery.dm"
+#include "code\craft.dm"
+#include "code\merchant.dm"
+#include "code\mortar.dm"
+// END_INCLUDE

@@ -1,0 +1,30 @@
+ <h1 align="center">Saint Place</h1>
+ <h2 align="center">Anthro-Based Medieval Server | D&D-like Server</h2>
+</p>
+
+<div align="center">
+
+| Website                   | Link                                           |
+|---------------------------|------------------------------------------------|
+| Discord          | [https://discord.gg/AkwKFetb](https://discord.gg/AkwKFetb) |
+| Usable Wiki(Not My)                     | [Wiki](https://twilight-fortress-axis.ru/index.php?title=%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0) |
+
+  ## LICENSE
+Original Fork Originates from [commit c28b351807bad950d2b323ada048190844bbda32](https://github.com/tgstation/tgstation/commit/c28b351807bad950d2b323ada048190844bbda32).
+
+All code after [commit 333c566b88108de218d882840e61928a9b759d8f on 2014/31/12 at 4:38 PM PST](https://github.com/tgstation/tgstation/commit/333c566b88108de218d882840e61928a9b759d8f) is licensed under [GNU AGPL v3](https://www.gnu.org/licenses/agpl-3.0.html).
+
+All code before [commit 333c566b88108de218d882840e61928a9b759d8f on 2014/31/12 at 4:38 PM PST](https://github.com/tgstation/tgstation/commit/333c566b88108de218d882840e61928a9b759d8f) is licensed under [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html).
+(Including tools unless their readme specifies otherwise.)
+
+See LICENSE for more details.
+
+The TGS DMAPI is licensed as a subproject under the MIT license.
+
+See the footer of [code/__DEFINES/tgs.dm](./code/__DEFINES/tgs.dm) and [code/modules/tgs/LICENSE](./code/modules/tgs/LICENSE) for the MIT license.
+
+All assets including icons and sound are under a [Creative Commons 3.0 BY-SA license](https://creativecommons.org/licenses/by-sa/3.0/) unless otherwise indicated.
+
+</div>
+
+Based on Azure Peak and Twilight Axis. There's a discord links [Azure Peak](https://discord.gg/NCFXUAgCPT); [Twilight Axis](https://discord.gg/6Sga5Uvdn6).
